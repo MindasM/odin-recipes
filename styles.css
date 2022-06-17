@@ -1,0 +1,37 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;   
+}
+
+.pcenter { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+}
+
+.click {
+    background-color: rgb(174, 231, 109);
+    color: rgba(202, 33, 33, 0.726);
+    font-size: 20px;
+    border: 2px solid #3c30df;
+}
+
+.titles {
+    text-align: center;
+    font-size: 36px;
+}
+
+.red {
+color: rgb(151, 13, 13);
+}
+
+.blue {
+color: rgb(17, 13, 209);
+}
+
+.green {
+color: rgb(9, 110, 23);
+}
